@@ -1,0 +1,13 @@
+# Executáveis C
+*.exe
+*.o
+*.obj
+
+# Caches e ambientes Python
+*venv*/
+__pycache__/
+*.pyc
+
+# Configurações locais
+.vscode/
+*.code-workspace
